@@ -1,0 +1,3 @@
+Moved: source_folder\vacation\sunset.jpeg -> organized_files\JPEG\sunset.jpeg
+[2026-03-20 21:58:48] Starting organization from 'C:/Users/User/Desktop/Projects/task automation with python scripts/source_folder' to 'C:/Users/User/Desktop/Projects/task automation with python scripts/organized_files'...
+[2026-03-20 21:58:48] ===== SUCCESS: Organization Complete =====
